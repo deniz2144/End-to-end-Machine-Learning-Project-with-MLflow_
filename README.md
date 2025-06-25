@@ -1,5 +1,6 @@
 # End-to-end-Machine-Learning-Project-with-MLflow
 
+![Pipeline Overview](assets/your_image_name.png)
 
 ## Workflows
 
@@ -12,4 +13,3 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
-![Uploading image.png…]()
