@@ -1,6 +1,6 @@
 # End-to-end-Machine-Learning-Project-with-MLflow
 
-![Pipeline Overview](assets/your_image_name.png)
+
 
 ## Workflows
 
@@ -13,4 +13,6 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
-![Proje Akış Diyagramı](./images/resminizin_adi.png)
+
+![Ekran görüntüsü](https://github.com/user-attachments/assets/6240f564-0586-4c8d-9449-cd88fbdd501e)
+
